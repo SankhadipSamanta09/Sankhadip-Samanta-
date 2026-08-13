@@ -1,0 +1,6 @@
+{
+  "name": "Kisku Bus Driver",
+  "description": "Nostalgic interactive journey celebrating Kisku Bus Driver memories, highway culture, and retro music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-immersive-radial {
+    background-color: #2d1b0d;
+    background-image: radial-gradient(circle at 50% 120%, #7c2d12 0%, #2d1b0d 70%);
+  }
+
+  .bg-dust-pattern {
+    background-image: url("https://www.transparenttextures.com/patterns/dust.png");
+  }
+
+  .bg-carbon-pattern {
+    background-image: url("https://www.transparenttextures.com/patterns/carbon-fibre.png");
+  }
+}
